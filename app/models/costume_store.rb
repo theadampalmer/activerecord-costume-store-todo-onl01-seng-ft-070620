@@ -1,1 +1,1 @@
-class CostumeStore class here
+class CostumeStore <ActiveRecord::Base
